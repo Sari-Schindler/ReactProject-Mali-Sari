@@ -1,0 +1,46 @@
+.numberArr{
+    display: inline-block;
+    width: 80%;
+    font-family: cursive;
+    align-items: center;
+    justify-items: center;
+    margin-bottom: 0px;
+}
+
+.buttons{
+    margin: 2px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.lettersArr{
+    display: inline-block;
+    width: 80%;
+    font-family: cursive;
+    font-size: 30px;
+    align-items: center;
+    justify-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.green{
+    background-color: green;
+}
+
+body{
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.allKeyboard{
+    display: block;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+
+}

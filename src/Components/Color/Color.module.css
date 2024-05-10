@@ -1,0 +1,15 @@
+.colorButton{
+    margin: 2px;
+    background-color: gray;
+    color: white;
+}
+
+.colorDiv{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.changeColor{
+    font-family: Lucida Handwriting;
+}
